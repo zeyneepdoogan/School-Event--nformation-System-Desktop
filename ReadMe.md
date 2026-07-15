@@ -73,31 +73,31 @@ ogrenci
 
 ## 🔐 Login Screen
 
-![Login Screen](images/login.png)
+![Login Screen](images/giris_ekrani.png)
 
 ---
 
 ## 👨‍💼 Admin Panel
 
-![Admin Panel](images/admin-panel.png)
+![Admin Panel](images/admin_panel.png)
 
 ---
 
 ## ➕ Add Event
 
-![Add Event](images/add-event.png)
+![Add Event](images/etkinlik_ekle.png)
 
 ---
 
 ## ✏️ Update Event
 
-![Update Event](images/update-event.png)
+![Update Event](images/güncelleme.png)
 
 ---
 
 ## 📋 All Events
 
-![All Events](images/all-events.png)
+![All Events](images/.png)
 
 ---
 
