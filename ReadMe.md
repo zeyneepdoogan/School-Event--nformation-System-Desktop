@@ -97,7 +97,7 @@ ogrenci
 
 ##  All Events
 
-![All Events](tümEtkinlikler/.png)
+![All Events](images/tümEtkinlikler.png)
 
 ---
 
