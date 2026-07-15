@@ -4,9 +4,9 @@ A desktop-based School Event Management System developed using **C#, Windows For
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👨‍💼 Admin Panel
+###  Admin Panel
 
 - Secure administrator login
 - Add new events
@@ -16,7 +16,7 @@ A desktop-based School Event Management System developed using **C#, Windows For
 - Review student feedback
 - View event statistics
 
-### 👨‍🎓 Student Panel
+###  Student Panel
 
 - Secure student login
 - Browse available events
@@ -27,9 +27,9 @@ A desktop-based School Event Management System developed using **C#, Windows For
 
 ---
 
-# 🔑 Test Accounts
+#  Test Accounts
 
-### 👨‍💼 Administrator
+###  Administrator
 
 **Username**
 
@@ -69,33 +69,33 @@ ogrenci
 
 ---
 
-# 📸 Screenshots
 
-## 🔐 Login Screen
+
+##  Login Screen
 
 ![Login Screen](images/giris_ekrani.png)
 
 ---
 
-## 👨‍💼 Admin Panel
+##  Admin Panel
 
 ![Admin Panel](images/admin_panel.png)
 
 ---
 
-## ➕ Add Event
+##  Add Event
 
 ![Add Event](images/etkinlik_ekle.png)
 
 ---
 
-## ✏️ Update Event
+##  Update Event
 
 ![Update Event](images/güncelleme.png)
 
 ---
 
-## 📋 All Events
+##  All Events
 
 ![All Events](tümEtkinlikler/.png)
 
@@ -103,25 +103,25 @@ ogrenci
 
 
 
-## 📊 Statistics
+##  Statistics
 
 ![Statistics](images/istatistikler.png)
 
 ---
 
-## 👨‍🎓 Student Panel
+##  Student Panel
 
 ![Student Panel](images/ogrenci_panel.png)
 
 ---
 
-## 📌 Joined Events
+##  Joined Events
 
 ![Joined Events](images/ogrenci_katildiklarim.png)
 
 ---
 
-## ✍️ Feedback
+##  Feedback
 
 ![Feedback](images/katilimlardanGeriDönüs.png)
 
@@ -131,7 +131,7 @@ ogrenci
 
 
 
-# 🚀 Installation
+#  Installation
 
 1. Download or clone the repository.
 2. Open the solution using **Visual Studio 2022**.
@@ -141,23 +141,20 @@ ogrenci
 
 ---
 
-# 🗄 Database
+#  Database
 
 Import the SQL file located in the **database** folder before running the project.
 
 ---
 
 
-
-
-
-# 🎯 Project Purpose
+#  Project Purpose
 
 The purpose of this project is to simplify school event management through a desktop application. Administrators can organize events, monitor participations, and review student feedback, while students can browse events, join activities, and submit feedback using an intuitive interface.
 
 ---
 
-# 👩‍💻 Developer
+#  Developer
 
 **Zeynep Doğan**
 
