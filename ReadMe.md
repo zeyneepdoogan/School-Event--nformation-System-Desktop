@@ -97,43 +97,33 @@ ogrenci
 
 ## 📋 All Events
 
-![All Events](images/.png)
+![All Events](tümEtkinlikler/.png)
 
 ---
 
-## 👥 Event Participations
 
-![Event Participations](images/participations.png)
-
----
-
-## 💬 Student Feedback
-
-![Student Feedback](images/feedback.png)
-
----
 
 ## 📊 Statistics
 
-![Statistics](images/statistics.png)
+![Statistics](images/istatistikler.png)
 
 ---
 
 ## 👨‍🎓 Student Panel
 
-![Student Panel](images/student-panel.png)
+![Student Panel](images/ogrenci_panel.png)
 
 ---
 
 ## 📌 Joined Events
 
-![Joined Events](images/joined-events.png)
+![Joined Events](images/ogrenci_katildiklarim.png)
 
 ---
 
 ## ✍️ Feedback
 
-![Feedback](images/student-feedback.png)
+![Feedback](images/katilimlardanGeriDönüs.png)
 
 ---
 
@@ -172,7 +162,6 @@ The purpose of this project is to simplify school event management through a des
 **Zeynep Doğan**
 
 Software Developer
-
 
 
 🔗 GitHub: https://github.com/zeyneepdoogan
